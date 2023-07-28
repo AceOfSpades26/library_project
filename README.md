@@ -1,16 +1,44 @@
 # library_project
 
-A new Flutter project.
+This project is to create a companion app for a library, based off of the data for Portsmouth University Library. 
 
-## Getting Started
+These are the links and data used within the code. 
+"Visit Library Website" link:
+URL: https://library.port.ac.uk/
+Location: main.dart, Item1
 
-This project is a starting point for a Flutter application.
+"Check available computers on the site" link:
+URL: https://ssd.port.ac.uk/myport/it/openaccess-availability/
+Location: main.dart, Item2
 
-A few resources to get you started if this is your first Flutter project:
+"Book Rooms in the Library" link:
+URL: http://libacs-app-01.uni.ds.port.ac.uk/isisroombooking.dll/EXEC/0/0hmh57s0303buj11rhncg1aj6mcq
+Location: main.dart, Item2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+"More information about library sections" link:
+URL: https://library.port.ac.uk/classmark/index.php?xid=L1126&state=1
+Location: main.dart, Item3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"More information about library opening times" link:
+URL: https://library.port.ac.uk/open/
+Location: main.dart, Item4
+
+Library Floor Map 1:
+URL: https://library.port.ac.uk/more/media/1/m167_365b3_thumb.png
+Location: main.dart, Item3
+
+Library Floor Map 2:
+URL: https://library.port.ac.uk/more/media/1/m169_2d9b8_thumb.png
+Location: main.dart, Item3
+
+Library Floor Map 3:
+URL: https://library.port.ac.uk/more/media/1/m171_46a32_thumb.png
+Location: main.dart, Item3
+
+The data used in section_locater.txt was retrieved from
+URL: https://library.port.ac.uk/classmark/index.php?xid=L1126&state=1
+Not all of the numbers were added to the dataset, only from 001-400.
+
+The data used in opening_times.txt was retrieved from 
+URL: https://library.port.ac.uk/open/
+This is just the data for the summer holiday opening times. 
