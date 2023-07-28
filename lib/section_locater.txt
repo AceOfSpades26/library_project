@@ -1,0 +1,147 @@
+data processing and computer science;ground;004
+computer programming, programs and data;ground;005
+software quality;ground;005.14
+computer security;ground;005.8
+artificial intelligence;ground;006.3
+digital sound;first;006.5
+computer graphics;ground;006.6
+web design and multimedia systems;first;006.7
+library and information sciences;first;020
+museum science;first;069
+news media, journalism and publishing;ground;070
+witchcraft;first;133.4
+sensory perception, movement, emotions;first;152
+emotion;first;152.4
+differential and developmental psychology;ground;155
+self esteem;ground;155.2
+child psychology and development;ground;155.4
+abnormal psychology;first;157
+ethics;first;170
+occupational ethics;first;174
+ethics of journalism;first;174.9097
+modern western and other noneastern philosophy;first;190
+religion;first;200
+sociology and anthropology;ground;301
+social theory;ground;301.1
+social interaction;ground;302
+risk;ground;302.13
+media (mass communications);ground;302.234
+films: sociology;ground;302.2343
+television: sociology;ground;302.2345
+sociology of deviance;ground;302.542
+social processes;ground;303
+social change;ground;303.4
+factors affecting social behaviour;ground;304
+immigration and society;ground;304.84
+groups of people;ground;305
+childhood studies;ground;305.23
+ageing;ground;305.26
+gender;ground;305.3
+women's history;ground;305.409
+social class history;ground;305.5
+history of slavery;ground;305.567
+slavery;ground;305.5670973
+race;ground;305.8
+culture and institutions;ground;306
+youth culture;ground;306.1
+consumption/consumer culture;ground;306.3
+sociolinguistics;ground;306.44
+language policy;ground;306.449
+sociology of performing arts;first;306.484
+family;first;306.85
+political science;first;320
+political thought;first;320.1
+European political thought;first;320.44
+ideologies;first;320.5
+political history by country;first;320.9
+European politics;first;320.94
+German politics;first;320.943
+French politics;first;320.944
+Italian politics;first;320.945
+Spanish politics;first;320.946
+Asian politics in general;first;320.95
+US politics;first;320.973
+systems of governments and states;first;321
+globalization;first;321.04
+civil rights movement;first;323.1196073
+human rights;first;323.4
+citizenship;first;323.6
+the political process;first;324
+political parties;first;324.2
+elections;first;324.6
+international migration and colonization;first;325
+immigration;first;325.1094
+decolonization;first;325.3
+international relations;first;327
+European foreign policy;first;327.17124
+Asian foreign policy;first;327.5
+economics;first;330
+finance;first;332
+banking;first;332.1
+investment;first;332.6
+economics of land and energy;first;333
+public finance;first;336
+taxation;first;336.2
+international economics;first;337
+European Union (economics);first;337.142
+production;first;338.4779
+tourism(economics);first;338.4791
+law;first;340
+EU legal system;first;340.0917124
+law of nations;first;341
+EU law;first;341.242
+constitutional & administrative law;first;342
+data protection;first;342.41085
+military, public property & finance, trade and industrial law;first;343
+labor, social service, education, cultural law;first;344
+employment law;first;344.4101
+occupational health and safety law;first;344.410465
+criminal law;first;345
+private law;first;346
+contract law;first;346.4102
+tort law;first;346.4103
+landlord and tenant law;first;346.41034
+company law;first;346.41066
+commercial law;first;346.4107
+procedure and courts;first;347
+English legal system;first;347.41
+public administration & military science;first;350
+public policy;first;350.003
+public administration of economy & environment;first;354
+European Union (public administration);first;354.4
+social problems and services;first;361
+social problems of & services to groups of people;first;362
+health policy and services;first;362.1
+alcohol abuse;first;362.292
+child abuse;first;362.71
+victimology;first;362.88
+criminology research/policing;first;363.2
+forensic science;first;363.25
+criminology;first;364
+crime investigation;first;364.12
+fraud;first;364.163
+crime (causes);first;364.2
+psychology of crime;first;364.243
+sociology of crime;first;364.25
+probation service;first;364.63
+penal and related institutions;first;365
+education;first;370
+theories of learning;first;370.152
+research methods in education;first;370.78
+schools and their activities, special education;first;371
+educational management;first;371.2
+assessment;first;371.26
+e-learning;first;371.334
+special needs;first;371.9
+primary education;first;371
+early years;first;372.21
+secondary education;first;373
+curricula;first;375
+higher education;first;378
+public policy issues in education;first;379
+education policy;first;379.15
+trade and transport;first;380-388
+international commerce (foreign trade);first;382
+communications;first;384
+television broadcasting;first;384.55
+costume and personal appearance;first;391
